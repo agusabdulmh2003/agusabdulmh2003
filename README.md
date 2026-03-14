@@ -57,21 +57,21 @@ Saya terbiasa menulis kode yang **terstruktur, rapi, dan scalable**, menerapkan 
 ### 📱 WhatsApp Gateway Laravel
 Sistem **WhatsApp Gateway berbasis Laravel** untuk pengiriman pesan otomatis dan terjadwal.  
 **Tech:** Laravel, PHP, MySQL  
-🔗 Repository: *(soon / isi link repo)*
+
 
 ---
 
 ### 💐 Web Buket Bunga
 Website pemesanan buket bunga dengan tampilan modern, responsif, dan user-friendly.  
 **Tech:** HTML, CSS, JavaScript  
-🔗 Repository: *(soon / isi link repo)*
+
 
 ---
 
 ### ⚙️ Web Service C#
 REST API sederhana untuk kebutuhan layanan data dan integrasi aplikasi.  
 **Tech:** C#, Web API  
-🔗 Repository: *(soon / isi link repo)*
+
 
 ---
 
