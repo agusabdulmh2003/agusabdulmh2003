@@ -2,7 +2,7 @@
 <h3 align="center">Web Developer • Laravel Specialist • Frontend Enthusiast</h3>
 
 <p align="center">
-  <a href="https://portomanan.netlify.app" target="_blank">
+  <a href="https://mndev.my.id" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-portomanan.netlify.app-0e75b6?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/agusabdulmh2003">
@@ -26,7 +26,7 @@ Saya terbiasa menulis kode yang **terstruktur, rapi, dan scalable**, menerapkan 
 
 ## 🌐 Portfolio
 🔗 **Personal Website & Portfolio**  
-👉 **https://portomanan.netlify.app**
+👉 **https://mndev.my.id**
 
 ---
 
@@ -85,7 +85,7 @@ REST API sederhana untuk kebutuhan layanan data dan integrasi aplikasi.
 ---
 
 ## 📫 Contact & Links
-- 🌐 Portfolio: **https://portomanan.netlify.app**  
+- 🌐 Portfolio: **https://mndev.my.id**  
 - 💻 GitHub: **https://github.com/agusabdulmh2003**
 
 ---
