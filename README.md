@@ -3,7 +3,7 @@
 
 <p align="center">
   <a href="https://mndev.my.id" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-portomanan.netlify.app-0e75b6?style=flat&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-mndev.my.id-0e75b6?style=flat&logo=google-chrome&logoColor=white" />
   </a>
   <a href="https://github.com/agusabdulmh2003">
     <img src="https://komarev.com/ghpvc/?username=agusabdulmh2003&label=Profile%20Views&color=0e75b6&style=flat" />
